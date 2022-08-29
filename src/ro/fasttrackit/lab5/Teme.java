@@ -11,6 +11,7 @@ public class Teme {
         auctionTarget(50);
         auctionTargetWithLimit(40,4);
         punctDespartit("A.fost.odata.ca.niciodata.un.Gigel");
+        // some content
 
     }
 
