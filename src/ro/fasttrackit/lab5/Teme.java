@@ -12,7 +12,7 @@ public class Teme {
         auctionTargetWithLimit(40,4);
         punctDespartit("A.fost.odata.ca.niciodata.un.Gigel");
         // some content
-
+        // another comment
     }
 
     public static int sumOfArray(int [] sir){
