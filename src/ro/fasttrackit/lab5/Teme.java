@@ -30,6 +30,7 @@ public class Teme {
             sum=sum+1;
         }
         return sum;
+        // some later comment
     }
 
     public static int[] compareInt(int [] sir, int maiMare){
